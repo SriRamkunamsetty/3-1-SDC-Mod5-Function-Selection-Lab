@@ -1,0 +1,6 @@
+{
+  "name": "Function Selection Lab",
+  "description": "An interactive sandbox demonstrating dynamic LLM function calling and tool execution using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
